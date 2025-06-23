@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "question": "If a car travels at a constant speed of 60 miles per hour, how many miles will it travel in 2.5 hours?"
+    },
+    {
+      "id": 2,
+      "question": "A store sells pencils at 3 for $1. How much will 15 pencils cost?"
+    },
+    {
+      "id": 3,
+      "question": "If the sum of three consecutive integers is 72, what is the largest of these integers?"
+    },
+    {
+      "id": 4,
+      "question": "A rectangle has a length of 8 and a width of 5. What is the area of the rectangle?"
+    },
+    {
+      "id": 5,
+      "question": "If 5x = 60, what is the value of x?"
+    },
+    {
+      "id": 6,
+      "question": "A train travels 120 miles in 1.5 hours. What is its average speed in miles per hour?"
+    },
+    {
+      "id": 7,
+      "question": "If a bag contains 4 red balls, 5 blue balls, and 6 green balls, what is the probability of picking a blue ball at random?"
+    },
+    {
+      "id": 8,
+      "question": "If the price of a $200 item is increased by 15%, what is the new price?"
+    },
+    {
+      "id": 9,
+      "question": "A recipe calls for 2 cups of flour to make 8 cookies. How many cups of flour are needed to make 24 cookies?"
+    },
+    {
+      "id": 10,
+      "question": "If y = 3x + 7 and x = 4, what is the value of y?"
+    }
+  ]
+  
